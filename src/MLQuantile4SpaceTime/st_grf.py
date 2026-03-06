@@ -1,6 +1,6 @@
 # st_grf.py
 """
-Spatio-temporal GRF components for Quantile2SpaceTime.
+Spatio-temporal GRF components for MLQuantile4SpaceTime.
 """
 
 from __future__ import annotations
